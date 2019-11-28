@@ -1,0 +1,8 @@
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\bin\Release\minecraft checklist.exe.config
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\bin\Release\minecraft checklist.exe
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\bin\Release\minecraft checklist.pdb
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\obj\Release\minecraft_checklist.MinecraftTracker.resources
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\obj\Release\minecraft_checklist.Properties.Resources.resources
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\obj\Release\minecraft checklist.csproj.GenerateResource.Cache
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\obj\Release\minecraft checklist.exe
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\obj\Release\minecraft checklist.pdb
