@@ -1,0 +1,9 @@
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\bin\Debug\minecraft checklist.exe.config
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\bin\Debug\minecraft checklist.exe
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\bin\Debug\minecraft checklist.pdb
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\obj\Debug\minecraft checklist.csprojResolveAssemblyReference.cache
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\obj\Debug\minecraft_checklist.MinecraftTracker.resources
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\obj\Debug\minecraft_checklist.Properties.Resources.resources
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\obj\Debug\minecraft checklist.csproj.GenerateResource.Cache
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\obj\Debug\minecraft checklist.exe
+c:\users\derek\onedrive\documents\visual studio 2017\Projects\minecraft checklist\minecraft checklist\obj\Debug\minecraft checklist.pdb
